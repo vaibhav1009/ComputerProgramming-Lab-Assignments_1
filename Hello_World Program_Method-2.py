@@ -2,7 +2,7 @@
 #   Author - Vaibhav Kagathara
 #   Date :- 15th September 2019
 #   Language :- Python
-#   About :- Printing Hello World
+#   About :- Printing Hello World Using String
 #  ***********************************************
 
 
