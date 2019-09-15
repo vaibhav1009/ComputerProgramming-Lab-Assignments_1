@@ -2,7 +2,7 @@
 #   Author - Vaibhav Kagathara
 #   Date :- 15th September 2019
 #   Language :- Python
-#   About :- Hello World Program
+#   About :- Hello World
 #  ********************************
 
 
