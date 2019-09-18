@@ -1,9 +1,9 @@
-#  *****************************************************
+#  *********************************************************************
 #   Author - Vaibhav Kagathara
-#   Date :- 15th September 2019
+#   Date :- 18th September 2019
 #   Language :- Python
-#   About :- Printing Custom Statement Using Varible
-#  *****************************************************
+#   About :- Writing Cindition Using if Statement to Check the Value
+#  *********************************************************************
 
 
 a=10
